@@ -1,0 +1,60 @@
+{
+  "employees": [
+    {
+      "id": "196f",
+      "name": "Mikko Laine",
+      "title": "Designer",
+      "salary": 3000,
+      "phone": "123456",
+      "email": "asonia3308@gmail.com",
+      "animal": "Dog",
+      "startDate": "12.10.2010",
+      "location": "Vaasa",
+      "department": "testing",
+      "skills": [
+        "JavaScript",
+        "React",
+        "Node",
+        "Laravel"
+      ],
+      "profilePicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt10s_yntAxzaxyeynS37M7FDTsAYTNKNLFw&s"
+    },
+    {
+      "id": "ceab",
+      "name": "sonia akter",
+      "title": "Designer",
+      "salary": 3000,
+      "phone": "04125678",
+      "email": "asonia3308@gmail.com",
+      "animal": "cat",
+      "startDate": "2015-04-27",
+      "location": "Espoo",
+      "department": "Marketing",
+      "skills": [
+        "JavaScript",
+        "React",
+        "Node",
+        "Laravel"
+      ],
+      "profilePicture": "https://plus.unsplash.com/premium_photo-1664474619075-644dd191935f?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aW1hZ2V8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "2884",
+      "name": "Suganya",
+      "title": "IT ",
+      "salary": 2000,
+      "phone": "043666777",
+      "email": "suganya@gmail.com",
+      "animal": "cat",
+      "startDate": "12.10.2016",
+      "location": "Vantaa",
+      "department": "Networking",
+      "skills": [
+        "SEO",
+        "Content Creation",
+        "Social Media"
+      ],
+      "profilePicture": "https://imagekit.io/blog/content/images/2019/12/image-optimization.jpg"
+    }
+  ]
+}
